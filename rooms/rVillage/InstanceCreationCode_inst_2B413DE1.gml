@@ -1,0 +1,1 @@
+entityActivateArgs = ["Can you bring me som-, I mean a pot from near the cave?",1,["1:Yeah sure I got it right here dude","2:Ok man I'll get you som- I mean a pot"]]

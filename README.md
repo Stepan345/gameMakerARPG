@@ -1,1 +1,1 @@
-Welcome to the source code for a small indie game i've been working on, enjoy :)
+Some source code for a tutorial i've been following
